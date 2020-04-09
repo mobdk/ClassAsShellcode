@@ -3,6 +3,8 @@ This PoC uses C# Class name as shellcode
 
 Compile: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /platform:x64 /target:exe /unsafe hw.cs
 
+PoC vid: https://www.youtube.com/watch?v=95d-VGqxZMk&feature=youtu.be
+
 hw.cs:
 ```
 using System;
